@@ -7,8 +7,8 @@ name2 = "Jas69"
 
 
 #invalid identifiers
-2name = "Jas69"
-marks$ = 98
+# 2name = "Jas69"
+# marks$ = 98
 
 
 print(age)
